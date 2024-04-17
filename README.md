@@ -1,4 +1,4 @@
-# ☕🚀 Java Laboratory Exercises
+# ☕🚀 Java laboratory exercises
 
 These are my solutions for Java laboratory exercises, part of the Programming in java course at FERIT.
 
